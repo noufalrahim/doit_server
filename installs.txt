@@ -1,0 +1,7 @@
+$ npm install express pg drizzle-orm dotenv 
+$ npm install -D typescript ts-node         
+$ npm install @types/node @types/express    
+$ npm install @types/pg                     
+$ npx tsx --init
+$ docker-compose up --build
+$ npx drizzle-kit push
